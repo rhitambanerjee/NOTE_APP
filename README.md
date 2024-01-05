@@ -14,9 +14,10 @@ npm install
 # 3)Set up the MongoDB database:
 Create a MongoDB database and note down the connection string.
 Create a .env file in the root directory and add the following:
-JWT_SECRET
-DB_PASSWORD
-DB_USERNAME
+
+JWT_SECRET,
+DB_PASSWORD,
+DB_USERNAME,
 
 # 4)Run the API:
 node/nodemon index.js
