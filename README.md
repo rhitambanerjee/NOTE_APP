@@ -21,3 +21,7 @@ DB_USERNAME,
 
 # 4)Run the API:
 node/nodemon index.js
+
+# Testing
+# The API is tested using Jest and Supertest. To run the tests:
+npm test
