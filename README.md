@@ -6,6 +6,7 @@ This repository contains a simple RESTful API built using the Node.js Express.js
 
 # 1)Clone the repository:
 git clone https://github.com/rhitambanerjee/NOTE_APP.git
+
 cd NOTE_APP
 
 # 2)Install dependencies:
